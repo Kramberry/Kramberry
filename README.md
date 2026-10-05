@@ -1,4 +1,4 @@
-### Hi, I'm Kramberry
+### Hi, I'm Kram
 
 I build tools for the things I care about: games, small businesses, and the people who use them. Most of my projects start because something I use every day is slower or clunkier than it should be.
 
