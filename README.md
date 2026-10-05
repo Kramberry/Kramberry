@@ -8,6 +8,7 @@ I build tools for the things I care about: games, small businesses, and the peop
 
 | Project | What it is | Status |
 |---|---|---|
+| RuneLite Encounter Overlays *(private)* | 20+ RuneLite plugins that turn live game data into configurable on-screen overlays. Java, RuneLite API. | Complete |
 | [ShiftDesk](https://github.com/Kramberry/PyScheduler) | Weekly staff-schedule builder for small teams. Runs offline, exports to Excel and PDF. Python, Flask, Tailwind. | Complete |
 | [Spotify Controller](https://github.com/Kramberry/runelite-spotify-controller) | RuneLite plugin to control Spotify without alt-tabbing. Java, Spotify Web API, OAuth with PKCE. | Complete |
 | GE Flipper *(private)* | Grand Exchange trading dashboard with live prices, tax-aware margins and flip tracking. Python, Streamlit. | Complete |
